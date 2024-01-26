@@ -252,7 +252,7 @@ def clock():
     datetimeLabel.after(1000, clock)
 
 
-# GUI Port
+# GUI Part
 root = ttkthemes.ThemedTk()
 root.get_themes()
 root.set_theme('radiance')
