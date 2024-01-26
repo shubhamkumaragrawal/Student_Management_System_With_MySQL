@@ -7,7 +7,7 @@ Step 3: Create a Python file
 
 Step 4: Install Some Libraries using pip install & Import it.</B>
 
-<H2>The Student Management System is a comprehensive application built with Python and MySQL designed to simplify the management and organization of student-related information in educational institutions. It provides a centralized platform for administrators and educators to manage student records efficiently.</H2>
+<H2><Center>The Student Management System is a comprehensive application built with Python and MySQL designed to simplify the management and organization of student-related information in educational institutions. It provides a centralized platform for administrators and educators to manage student records efficiently.</Center></H2>
 
 ## Key Features
 - Add, search, update, and delete student records
