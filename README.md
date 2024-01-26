@@ -1,9 +1,7 @@
 <H2 align="center">Student Management System With MySQL Using Python</H2>
 <B>Step 1: Install Python
 
-
 Step 2: Install Pycharm | Create Project | Install Library
-
 Step 3: Create a Python file</B>
 
 ## About
