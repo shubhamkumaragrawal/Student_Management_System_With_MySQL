@@ -1,0 +1,5 @@
+tkinter - [Standard GUI(Graphical User Interface) Toolkit]
+pillow - [Powerful Image Processing Library, provides easy-to-use methods for opening, manipulating, and saving many different image file formats]
+ttkthemes - [Not a Standard Python Library, but it related to the 'ttk' (Themed Tkinter) module in Python's Tkinter library and provides a set of themed widgets]
+pymysql - [A Pure Python MySQL Client, allows Python programs to connect to a MySQL database, execute SQL queries, and manage database connections]
+pandas - [Popular Open-Source Data Manipulation and Analysis Library. It provides data structures for efficiently storing large datasets and tools for working]
