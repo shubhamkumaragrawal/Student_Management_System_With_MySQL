@@ -7,6 +7,7 @@ Step 2: Install Pycharm | Create Project | Install Library
 Step 3: Create a Python file</B>
 
 <img src="login.jpg">
+![Login](https://github.com/shubhamkumaragrawal/Student_Management_System_With_MySQL/assets/132228420/315010c4-a86c-4962-a88c-e1873451ea87)
 
 ## About
 <p align="center"><B>The Student Management System is a comprehensive application built with Python and MySQL designed to simplify the management and organization of student-related information in educational institutions. It provides a centralized platform for administrators and educators to manage student records efficiently.</B></p>
