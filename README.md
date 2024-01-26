@@ -24,12 +24,12 @@ Step 3: Create a Python file</B>
 
 ## How to Use
 1. Clone the repository
-2. Set up a virtual environment (optional)
-3. Install dependencies (`pip install -r requirements.txt`)
-4. Run the script (`python login.py`)
+2. Set up a virtual environment (Optional)
+3. Install dependencies `pip install -r requirements.txt`
+4. Run the script `python login.py`
 
 ## Acknowledgments
-- Thanks to [tkinter] for [Graphical User Interface].
+- Thanks to <B>Tkinter</B> for the <B>Graphical User Interface</B>
 
 ## Thank you
 > **Thank you for visiting, Hope you found something useful!**
