@@ -14,19 +14,19 @@ Step 3: Create a Python file</B>
 <p align="center"><B>The Student Management System is a comprehensive application built with Python and MySQL designed to simplify the management and organization of student-related information in educational institutions. It provides a centralized platform for administrators and educators to manage student records efficiently.</B></p>
 
 ## Key Features
-- Add, search, update, and delete student records
-- View detailed student information
-- Export data
+- **Add, search, update, and delete student records**
+- **View detailed student information**
+- **Export data**
 
 ## Technologies Used
-- Python
-- MySQL
+- **Python**
+- **MySQL**
 
 ## How to Use
-1. Clone the repository
-2. Set up a virtual environment (Optional)
-3. Install dependencies `pip install -r requirements.txt`
-4. Run the script `python login.py`
+1. **Clone the repository**
+2. **Set up a virtual environment (Optional)**
+3. **Install dependencies `pip install -r requirements.txt`**
+4. **Run the script `python login.py`**
 
 ## Acknowledgments
 - Thanks to <B>Tkinter</B> for the <B>Graphical User Interface</B>
